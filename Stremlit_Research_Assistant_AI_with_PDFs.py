@@ -273,3 +273,43 @@
         "\n",
         "if __name__ == \"__main__\":\n",
         "    main()"
+      ],
+      "metadata": {
+        "id": "lE7lLsSPa1qZ"
+      },
+      "execution_count": 18,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "!streamlit run app.py"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "5QCs39ItdNqG",
+        "outputId": "9e3754f9-9c46-4c0d-90f3-880d78556590"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "\n",
+            "Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.\n",
+            "\u001b[0m\n",
+            "\u001b[0m\n",
+            "\u001b[34m\u001b[1m  You can now view your Streamlit app in your browser.\u001b[0m\n",
+            "\u001b[0m\n",
+            "\u001b[34m  Network URL: \u001b[0m\u001b[1mhttp://172.28.0.12:8501\u001b[0m\n",
+            "\u001b[34m  External URL: \u001b[0m\u001b[1mhttp://35.245.73.175:8501\u001b[0m\n",
+            "\u001b[0m\n"
+          ]
+        }
+      ]
+    }
+  ]
+}
